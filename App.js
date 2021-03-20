@@ -40,7 +40,7 @@ export default class App extends React.Component{
 
   componentDidMount(){
     this.checkinternet()
-    fetch('https://thingspeak.com/channels/1322706/feed.json?key=Q1ECMTX0E4PVRXIS')
+    fetch('https://thingspeak.com/channels/1322706/feed.json?key=******')
       .then((response) => response.json())
       .then((json) => {
         this.setState({ data: json }, () => {
@@ -67,7 +67,7 @@ export default class App extends React.Component{
         ])
       }
       else{
-        fetch('https://thingspeak.com/channels/1322706/feed.json?key=Q1ECMTX0E4PVRXIS')
+        fetch('https://thingspeak.com/channels/1322706/feed.json?key=****')
         .then((response) => response.json())
         .then((json) => {
           this.setState({ data: json }, () => {
