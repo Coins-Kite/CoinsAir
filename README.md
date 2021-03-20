@@ -19,7 +19,7 @@
 
 ## Sample Preview
 
-<img src="https://user-images.githubusercontent.com/61349423/111869770-e422e280-89a6-11eb-8f2d-fc963845b000.png" width="230" height="400"> <img src="https://user-images.githubusercontent.com/61349423/111869793-03217480-89a7-11eb-88c7-8d6cb1e4149c.png" width="230" height="400"> <img src="https://user-images.githubusercontent.com/61349423/111869797-061c6500-89a7-11eb-887c-0ca7d4814306.png" width="230" height="400">
+<img src="https://user-images.githubusercontent.com/61349423/111869770-e422e280-89a6-11eb-8f2d-fc963845b000.png" width="230" height="600"> <img src="https://user-images.githubusercontent.com/61349423/111869793-03217480-89a7-11eb-88c7-8d6cb1e4149c.png" width="230" height="400"> <img src="https://user-images.githubusercontent.com/61349423/111869797-061c6500-89a7-11eb-887c-0ca7d4814306.png" width="230" height="400">
 
 
 ## Authors
